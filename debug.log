@@ -1,0 +1,266 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.thoughtworks.xstream.core.util.Fields (file:/D:/work/ecplice/RepastSimphony-2.8/eclipse/plugins/repast.simphony.runtime_2.8.0/lib/xstream-1.4.7.jar) to field java.util.TreeMap.comparator
+WARNING: Please consider reporting this to the maintainers of com.thoughtworks.xstream.core.util.Fields
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+SystemParameter.temperature = 1.0
+打印头文件信息：
+文件路径：./data/geographicdata/太原线.txt
+ncols = 1033
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00049999999999999
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/小店区.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000001
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/杏花岭区.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000001
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/迎泽区.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000002
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/晋源区.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000001
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/万柏林区.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000001
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/尖草坪区.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000001
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/太原面.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000002
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/太原医院.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000002
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/太原机场.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000002
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/太原火车站.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000002
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/太原汽车站.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000002
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/太原商圈.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000002
+NODATA_value = -9999
+打印头文件信息：
+文件路径：./data/geographicdata/太原高校.txt
+ncols = 1032
+nrows = 959
+xllcorner = 112.267745
+yllcorner = 37.595754
+cellsize = 0.00050000000000002
+NODATA_value = -9999
+当前防控等级4
+就诊时间4.0
+就诊率0.5
+隔离比例0.0
+接种疫苗的概率0.0
+口罩比例0.2
+流动意愿0.99
+世界时间为：1
+数据更新
+世界时间为：1现在未使用的床位数=2574
+世界时间为：1现在已使用的床位数=0
+世界时间为：1现在健康人数=230935
+世界时间为：1现在确诊数=0
+世界时间为：1现在隔离数=0
+世界时间为：1累计密接数=0
+世界时间为：1现在潜伏数=3
+世界时间为：1现在死亡人数=0
+世界时间为：1现在治愈人数=0
+世界时间为：1当前政府防控等级0
+2021-12-31 08:25:20 数据输入dataStorage表格！
+世界时间为：2
+数据更新
+世界时间为：2现在未使用的床位数=2574
+世界时间为：2现在已使用的床位数=0
+世界时间为：2现在健康人数=230908
+世界时间为：2现在确诊数=0
+世界时间为：2现在隔离数=0
+世界时间为：2累计密接数=27
+世界时间为：2现在潜伏数=3
+世界时间为：2现在死亡人数=0
+世界时间为：2现在治愈人数=0
+世界时间为：2当前政府防控等级0
+2021-12-31 08:26:26 数据输入dataStorage表格！
+世界时间为：3
+数据更新
+世界时间为：3现在未使用的床位数=2574
+世界时间为：3现在已使用的床位数=0
+世界时间为：3现在健康人数=230894
+世界时间为：3现在确诊数=0
+世界时间为：3现在隔离数=0
+世界时间为：3累计密接数=41
+世界时间为：3现在潜伏数=3
+世界时间为：3现在死亡人数=0
+世界时间为：3现在治愈人数=0
+世界时间为：3当前政府防控等级0
+2021-12-31 08:27:31 数据输入dataStorage表格！
+当前隔离比例0.0
+变成潜伏者的概率0.202
+当前隔离比例0.0
+变成潜伏者的概率0.212
+当前隔离比例0.0
+变成潜伏者的概率0.244
+当前隔离比例0.0
+变成潜伏者的概率0.122
+当前隔离比例0.0
+变成潜伏者的概率0.18000000000000002
+当前隔离比例0.0
+变成潜伏者的概率0.202
+当前隔离比例0.0
+变成潜伏者的概率0.234
+当前隔离比例0.0
+变成潜伏者的概率0.18000000000000002
+当前隔离比例0.0
+变成潜伏者的概率0.234
+当前隔离比例0.0
+变成潜伏者的概率0.091
+当前隔离比例0.0
+变成潜伏者的概率0.19
+当前隔离比例0.0
+变成潜伏者的概率0.234
+当前隔离比例0.0
+变成潜伏者的概率0.091
+当前隔离比例0.0
+变成潜伏者的概率0.212
+当前隔离比例0.0
+变成潜伏者的概率0.2
+当前隔离比例0.0
+变成潜伏者的概率0.202
+当前隔离比例0.0
+变成潜伏者的概率0.028999999999999998
+当前隔离比例0.0
+变成潜伏者的概率0.028999999999999998
+当前隔离比例0.0
+变成潜伏者的概率0.095
+当前隔离比例0.0
+变成潜伏者的概率0.052000000000000005
+当前隔离比例0.0
+变成潜伏者的概率0.09799999999999999
+当前隔离比例0.0
+变成潜伏者的概率0.091
+当前隔离比例0.0
+变成潜伏者的概率0.022
+当前隔离比例0.0
+变成潜伏者的概率0.234
+当前隔离比例0.0
+变成潜伏者的概率0.111
+当前隔离比例0.0
+变成潜伏者的概率0.10500000000000001
+当前隔离比例0.0
+变成潜伏者的概率0.016
+当前隔离比例0.0
+变成潜伏者的概率0.091
+当前隔离比例0.0
+变成潜伏者的概率0.234
+当前隔离比例0.0
+变成潜伏者的概率0.202
+当前隔离比例0.0
+变成潜伏者的概率0.18000000000000002
+当前隔离比例0.0
+变成潜伏者的概率0.18000000000000002
+当前隔离比例0.0
+变成潜伏者的概率0.091
+当前隔离比例0.0
+变成潜伏者的概率0.111
+当前隔离比例0.0
+变成潜伏者的概率0.091
+当前隔离比例0.0
+变成潜伏者的概率0.028999999999999998
+当前隔离比例0.0
+变成潜伏者的概率0.095
+当前隔离比例0.0
+变成潜伏者的概率0.202
+当前隔离比例0.0
+变成潜伏者的概率0.244
+当前隔离比例0.0
+变成潜伏者的概率0.016
+当前隔离比例0.0
+变成潜伏者的概率0.122
+当前隔离比例0.0
+变成潜伏者的概率0.234
+当前隔离比例0.0
+变成潜伏者的概率0.022
+当前隔离比例0.0
+变成潜伏者的概率0.202
+当前隔离比例0.0
+变成潜伏者的概率0.19
+当前隔离比例0.0
+变成潜伏者的概率0.09799999999999999
+当前隔离比例0.0
+变成潜伏者的概率0.052000000000000005
+当前隔离比例0.0
+变成潜伏者的概率0.028999999999999998
+当前隔离比例0.0
+变成潜伏者的概率0.212
+当前隔离比例0.0
+变成潜伏者的概率0.234
+当前隔离比例0.0
+变成潜伏者的概率0.234

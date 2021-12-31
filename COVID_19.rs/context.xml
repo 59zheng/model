@@ -1,0 +1,15 @@
+<context id="COVID_19"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
+	<projection type="continuous space" id="space"></projection>
+	<projection type="grid" id="grid"></projection>
+	<projection id="border" type="value layer"></projection>
+	<projection id="TYM" type="value layer"></projection>
+	<projection id="xdValueLayer" type="value layer"></projection>
+	<projection id="xhlValueLayer" type="value layer"></projection>
+	<projection id="wblValueLayer" type="value layer"></projection>
+	<projection id="yzValueLayer" type="value layer"></projection>
+	<projection id="jyValueLayer" type="value layer"></projection>
+	<projection id="jcpValueLayer" type="value layer"></projection>
+	
+</context>

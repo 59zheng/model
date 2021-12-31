@@ -1,0 +1,43 @@
+<repast.simphony.data2.engine.DataSetDescriptor>
+  <name>Hospital_Bed_Num</name>
+  <type>AGGREGATE</type>
+  <inclTick>true</inclTick>
+  <inclBatchRun>false</inclBatchRun>
+  <inclRandomSeed>false</inclRandomSeed>
+  <scheduleParams>
+    <start>1.0</start>
+    <interval>1.0</interval>
+    <priority>-Infinity</priority>
+    <pType>LAST</pType>
+    <duration>-1.0</duration>
+    <frequency>REPEAT</frequency>
+    <hashCode>-1993085877</hashCode>
+  </scheduleParams>
+  <atEnd>false</atEnd>
+  <methodDataSources class="linked-hash-map"/>
+  <countSources class="linked-hash-map"/>
+  <customNADataSources class="linked-hash-map"/>
+  <customAggDataSources class="linked-hash-map">
+    <entry>
+      <string>Hospital_Num</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Hospital_Num</id>
+        <dsClassName>data.source.Hospital_NumDataSource</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>UnuseBedNum</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>UnuseBedNum</id>
+        <dsClassName>data.source.UnuseBedNumDataSource</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>UseBedNum</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>UseBedNum</id>
+        <dsClassName>data.source.UseBedNumDataSource</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+  </customAggDataSources>
+</repast.simphony.data2.engine.DataSetDescriptor>

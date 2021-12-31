@@ -1,0 +1,17 @@
+<simphony.settings.SettingsRegistry serialization="custom">
+  <unserializable-parents/>
+  <hashtable>
+    <default>
+      <loadFactor>0.75</loadFactor>
+      <threshold>3</threshold>
+    </default>
+    <int>5</int>
+    <int>3</int>
+    <string>SettingsFileName</string>
+    <string>Repast.settings</string>
+    <string>SettingsRegistryId</string>
+    <string>Repast.registry</string>
+    <string>LastLoadedScenario</string>
+    <string>D:\数据文件\12.08新版-政府防空等级2 - 副本\12.08新版-政府防空等级2 - 副本\COVID_19(1)(1) - 副本\COVID_19.rs</string>
+  </hashtable>
+</simphony.settings.SettingsRegistry>
